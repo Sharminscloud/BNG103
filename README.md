@@ -1,2 +1,8 @@
 ### ASSESMENTS:
-#### 1.QUIZ
+#### 1- QUIZ
+#### 2- 1ST VIVA
+#### 3- IMPROMPTU
+#### 4- GROUP PRESENTATION
+#### 5- MIDTERM
+#### 6- 2ND VIVA
+#### 7- FINAL
